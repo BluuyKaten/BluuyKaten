@@ -26,9 +26,8 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=C&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-F7B93E?style=flat-square&logo=C&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
