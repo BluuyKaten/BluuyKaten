@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm CarVak, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" style="width: 20px;">
+<p>Welcome to my page! </br> I'm CarVak, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" width="15px">
  <b>GuangZhou, China</b></p>
 <h3>Things I code with</h3>
 <p>
@@ -68,7 +68,7 @@
 </table>
 <h3>My latest Projects</h3>
 <ul>
-  <li><a href="https://github.com/BluuyKaten/vimi"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/robot-face_1f916.png" width="20" alt="AI" /> Vimi - AI-Powered Interview Platform</b></a><br/><i>An intelligent AI-driven interview website to help candidates practice and improve their skills</i></li>
+  <li><a href="https://github.com/BluuyKaten/vimi"><b><img src="https://cdn-icons-png.flaticon.com/128/4616/4616790.png" class="replaced-svg" alt="AI" width="20" >Vimi - AI-Powered Interview Platform</b></a><br/><i>An intelligent AI-driven interview website to help candidates practice and improve their skills</i></li>
 </ul>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BluuyKaten&theme=react" />
 <!--<img[![BluuyKaten's github activity graph](src="https://github-readme-activity-graph.vercel.app/graph?username=BluuyKaten&theme=react")](https://github.com/BluuyKaten/github-readme-activity-graph)
