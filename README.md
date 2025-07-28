@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm CarVak, Fullstack developer from <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c2119d89-f2f1-4757-aa33-853c6c11b7ca" />
+<p>Welcome to my page! </br> I'm CarVak, Fullstack developer from <a href="https://www.flaticon.com/free-icons/flags" title="flags icons"></a>
  <b>GuangZhou, China</b></p>
 <h3>Things I code with</h3>
 <p>
