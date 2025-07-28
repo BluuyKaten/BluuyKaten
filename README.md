@@ -68,7 +68,7 @@
 </table>
 <h3>My latest Projects</h3>
 <ul>
-  <li><a href="https://github.com/BluuyKaten/vimi"><b><img src="https://cdn-icons-png.flaticon.com/128/4616/4616790.png" class="replaced-svg" alt="AI" width="20" >Vimi - AI-Powered Interview Platform</b></a><br/><i>An intelligent AI-driven interview website to help candidates practice and improve their skills</i></li>
+  <li><a href="https://github.com/BluuyKaten/vimi"><b><img src="https://cdn-icons-png.flaticon.com/128/4616/4616790.png" alt="AI" width="20" >Vimi - AI-Powered Interview Platform</b></a><br/><i>An intelligent AI-driven interview website to help candidates practice and improve their skills</i></li>
 </ul>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BluuyKaten&theme=react" />
 <!--<img[![BluuyKaten's github activity graph](src="https://github-readme-activity-graph.vercel.app/graph?username=BluuyKaten&theme=react")](https://github.com/BluuyKaten/github-readme-activity-graph)
