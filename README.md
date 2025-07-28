@@ -31,7 +31,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=BluuyKaten&show_icons=true&theme=merko)" />
+<!--<h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -67,7 +69,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BluuyKaten/HTML-DAY2?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 <h3>My latest Projects</h3>
 <ul>
   <li><a href="https://github.com/BluuyKaten/vimi"><b><img src="https://cdn-icons-png.flaticon.com/128/4616/4616790.png" alt="AI" width="20" >Vimi - AI-Powered Interview Platform</b></a><br/><i>An intelligent AI-driven interview website to help candidates practice and improve their skills</i></li>
