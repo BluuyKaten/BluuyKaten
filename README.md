@@ -31,8 +31,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BluuyKaten&show_icons=true&theme=merko)" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluuyKaten&layout=compact&theme=buefy&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=BluuyKaten&show_icons=true&theme=merko)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluuyKaten&layout=compact&theme=buefy&hide_border=true" />
 <!--<h3>Open source projects</h3>
 <table>
   <thead align="center">
