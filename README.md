@@ -28,7 +28,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=BluuyKaten&show_icons=true&theme=merko" alt="Bluuy's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluuyKaten&layout=compact&theme=buefy&hide_border=true" />
 <!--<h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -70,7 +69,6 @@
 <ul>
   <li><a href="https://github.com/BluuyKaten/vimi"><b><img src="https://cdn-icons-png.flaticon.com/128/4616/4616790.png" alt="AI" width="20" >Vimi - AI-Powered Interview Platform</b></a><br/><i>An intelligent AI-driven interview website to help candidates practice and improve their skills</i></li>
 </ul>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BluuyKaten&theme=react" />
 <!--<img[![BluuyKaten's github activity graph](src="https://github-readme-activity-graph.vercel.app/graph?username=BluuyKaten&theme=react")](https://github.com/BluuyKaten/github-readme-activity-graph)
 <h3>Where to find me />-->
 <p><a href="https://github.com/BluuyKaten" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="tencent://message/?uin=1808660458&Site=fdfdf&Menu=yes" target="_blank"><img alt="QQ" src="https://img.shields.io/badge/qq-%231DA1F2.svg?&style=for-the-badge&logo=QQ&logoColor=white" /></a>
